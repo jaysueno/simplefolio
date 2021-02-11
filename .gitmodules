@@ -1,0 +1,3 @@
+[submodule "simplefolio"]
+	path = simplefolio
+	url = git@github.com:jaysueno/simplefolio.git
